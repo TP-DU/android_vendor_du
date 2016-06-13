@@ -36,5 +36,6 @@ PRODUCT_PACKAGES += \
     libstagefright_soft_ffmpegadec \
     libstagefright_soft_ffmpegvdec \
     libFFmpegExtractor \
+    media_codecs_ffmpeg.xml \
     libnamparser
 endif
